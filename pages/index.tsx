@@ -1,6 +1,4 @@
 import type { NextPage } from 'next';
-import Head from 'next/head';
-import Image from 'next/image';
 import { Flex, Heading, Button, Input } from '@chakra-ui/react';
 
 const IndexPage: NextPage = () => {
